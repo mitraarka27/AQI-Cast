@@ -15,6 +15,18 @@ A lightweight version of this tool can be accessed at https://aqi-cast.fly.dev
 - Fully **Dockerized** and portable
 
 ---
+📸 Here’s what the AQI Risk Forecaster looks like:
+
+### 🌫️ Home UI
+![Home UI](assets/landing_page.png)
+
+### 🌫️ Interactive Map
+![Interactive Map](assets/current_map.png)
+
+### 📈 Forecast Output
+![Forecast Output](assets/forecast.png)
+
+---
 
 ## 🚀 Run the App via Docker
 
@@ -75,18 +87,6 @@ Health risk levels are assigned based on:
 	•	🛡️ .dockerignore and linting via flake8
 
 ⸻
-
-📸 Here’s what the AQI Risk Forecaster looks like:
-
-### 🌫️ Home UI
-![Home UI](assets/landing_page.png)
-
-### 🌫️ Interactive Map
-![Interactive Map](assets/current_map.png)
-
-### 📈 Forecast Output
-![Forecast Output](assets/forecast.png)
----
 
 🛠️ Developer Setup
 
