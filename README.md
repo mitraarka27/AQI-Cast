@@ -1,6 +1,7 @@
 # 🌫️ AQI-Cast: Air Quality Risk Forecaster
 
 Forecast PM2.5 air pollution and assess health risks using real-time AQI data and machine learning.
+A lightweight version of this tool can be accessed at https://aqi-cast.fly.dev
 
 ## 🔍 What It Does
 
