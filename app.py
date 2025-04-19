@@ -16,6 +16,14 @@ from src.report_generator import generate_pdf_report
 
 st.set_page_config(page_title="Air Quality Risk Forecaster", layout="centered")
 st.title("🌫️ Air Quality Risk Forecaster")
+st.markdown(
+    """
+    <div style='text-align: center; font-size: 18px; padding: 6px 0 12px 0;'>
+        <strong>Developed by <a href='https://github.com/mitraarka27' target='_blank'>Arka Mitra</a></strong> 🛠️
+    </div>
+    """,
+    unsafe_allow_html=True
+)
 st.markdown("Forecast PM2.5 and assess health risks using real-time data and machine learning.")
 
 # Location input
