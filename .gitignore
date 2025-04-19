@@ -1,0 +1,18 @@
+# Virtualenv
+.venv/
+__pycache__/
+*.pyc
+
+# Models/data
+*.pt
+*.h5
+*.csv
+*.nc
+*.npz
+
+# Streamlit + logs
+.streamlit/
+*.log
+
+# OS junk
+.DS_Store

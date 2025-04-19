@@ -1,0 +1,30 @@
+# Core packages
+streamlit
+pandas
+matplotlib
+plotly==5.18.0
+kaleido==0.2.1
+requests
+geopy
+
+# Forecasting & ML
+xgboost
+lightgbm
+scikit-learn
+statsmodels
+prophet
+neuralprophet
+cmdstanpy
+tensorflow==2.15.0
+torch==2.1.0
+torchaudio==2.1.0
+torchvision==0.16.0
+
+# Reporting
+fpdf
+
+# Dev / Streamlit / Misc
+watchdog
+flake8
+pytest
+dask[dataframe]
