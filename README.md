@@ -3,6 +3,19 @@
 A lightweight, interactive ML web app that forecasts air pollution risk at your location using real-time AQI data and a blend of forecasting models.
 
 ---
+## 🔍 Preview
+
+Here’s what the AQI Risk Forecaster looks like:
+
+### 🌫️ Home UI
+![Home UI](assets/landing_page.png)
+
+### 🌫️ Interactive Map
+![Interactive Map](assets/current_map.png)
+
+### 📈 Forecast Output
+![Forecast Output](assets/forecast.png)
+---
 
 ## 🔍 Features
 
